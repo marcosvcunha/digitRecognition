@@ -55,7 +55,7 @@ class DigitClassifier():
             obj.click(x, y)
 
     def run(self):
-        pygame.display.set_caption('My Game')
+        pygame.display.set_caption('Digit Recognition')
         mousePressed = False
         gameOver = False
 
